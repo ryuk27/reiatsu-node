@@ -2,9 +2,7 @@
 
 <sub>By: ryuk27</sub>
 
-**A lightweight, educational Command & Control (C2) framework for red team operations and security research.**
-
-# CLI Interface
+**Reiatsu Node is a full-featured Command & Control framework built in Python. It is designed to provide security professionals and researchers with a robust platform to simulate and study the entire post-exploitation lifecycle of modern adversary operations. Its modular architecture and focus on secure, encrypted communications make it a powerful tool for authorized red team engagements and advanced security education.**
 
 <p align="center">
   <img src="ss/CLI Interface.png" alt="Reiatsu Node CLI Interface" width="800">
