@@ -4,6 +4,12 @@
 
 **A lightweight, educational Command & Control (C2) framework for red team operations and security research.**
 
+# CLI Interface
+
+<p align="center">
+  <img src="ss/CLI Interface.png" alt="Reiatsu Node CLI Interface" width="800">
+</p>
+
 ## Features
 
 -  **Encrypted Communications** - AES-256-GCM + SSL/TLS dual-layer encryption
