@@ -4,10 +4,6 @@
 
 **A lightweight, educational Command & Control (C2) framework for red team operations and security research.**
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-
 ## Features
 
 -  **Encrypted Communications** - AES-256-GCM + SSL/TLS dual-layer encryption
