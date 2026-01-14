@@ -1,0 +1,28 @@
+{
+  "name": "reiatsu-node",
+  "version": "1.0.0",
+  "description": "A powerful network diagnostic and monitoring tool",
+  "main": "src/index.js",
+  "bin": {
+    "reiatsu": "./src/cli/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryuk27/reiatsu-node.git"
+  },
+  "author": "ryuk27",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4",
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "jest"
+  }
+}

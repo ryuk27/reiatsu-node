@@ -1,0 +1,38 @@
+# Generated files
+*.pem
+*.key
+server_state.json
+reiatsu.key
+
+# Payloads folder contents
+payloads/*.py
+payloads/*.pyw
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# PyInstaller
+build/
+dist/
+*.spec
