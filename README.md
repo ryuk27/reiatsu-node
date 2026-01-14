@@ -1,7 +1,5 @@
 # 🔮 Reiatsu Node
 
-<sub>By: ryuk27</sub>
-
 **Reiatsu Node is a full-featured Command & Control framework built in Python. It is designed to provide security professionals and researchers with a robust platform to simulate and study the entire post-exploitation lifecycle of modern adversary operations. Its modular architecture and focus on secure, encrypted communications make it a powerful tool for authorized red team engagements and advanced security education.**
 
 <p align="center">
