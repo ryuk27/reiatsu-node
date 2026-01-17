@@ -222,24 +222,4 @@ The server automatically generates:
 - **Unique Agent IDs** - Based on system characteristics
 - **Session Timeout** - Automatic offline detection
 
-## Comparison
-
-| Feature | Reiatsu | Cobalt Strike | Metasploit |
-|---------|---------|---------------|------------|
-| Cost | Free | $3,500/year | Free |
-| Language | Python | Java | Ruby |
-| Encryption | AES-256-GCM | AES | Various |
-| Learning Curve | Easy | Complex | Moderate |
-| Modules | 8 | 100+ | 2000+ |
-
-## Legal Disclaimer
-
-**Reiatsu Node is intended for authorized security testing and educational purposes only.**
-
-- ✅ Authorized penetration testing
-- ✅ Red team engagements with permission
-- ✅ Security research and education
-- ❌ Unauthorized access to systems
-- ❌ Malicious activities
-
 Users are responsible for ensuring they have proper authorization before using this tool. Unauthorized use may violate laws in your jurisdiction.
